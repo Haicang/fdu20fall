@@ -2,9 +2,17 @@
 
 [TOC]
 
-## 相关链接
+## Overall
 
-[Kangyu Zheng](https://github.com/zkysfls), [20 fall phd 大群申请经验总结](https://github.com/zkysfls/20fall-)
+Prof. [Mor Harchol-Balter](http://www.cs.cmu.edu/~harchol/),  [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+[Philip J. Guo](http://pgbovine.net/index.html),  [Pages tagged as grad school applications](http://pgbovine.net/grad-school-applications-summary.htm)
+
+[Dave Andersen](http://www.cs.cmu.edu/~dga/),  [Reflecting on CS Graduate Admissions](http://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
+
+## Related Repos
+
+[Kangyu Zheng](https://github.com/zkysfls),  [20 fall phd 大群申请经验总结](https://github.com/zkysfls/20fall-)
 
 ## 材料
 
@@ -20,13 +28,37 @@
 
 1. [知乎用户 sue wang 的回答](https://www.zhihu.com/question/25380930/answer/236242595)
 
+### SoP
+
+[Writing a Statement of Purpose](Writing a Statement of Purpose)  这里的材料非常全，里面还有一点点关于推荐信的介绍
+
 ### 怎样自己写推荐信初稿
 
-知乎用户：徐淑录, [知乎专栏：如何写一封好的推荐信](https://zhuanlan.zhihu.com/p/21806365)
+首先用知乎来简单了解一下推荐信大概是个什么东西：知乎用户：徐淑录, [知乎专栏：如何写一封好的推荐信](https://zhuanlan.zhihu.com/p/21806365)
+
+在写推荐信之前，非常建议去 Google 上找 native speaker 写的推荐信，最好是学校里提供的那种案例；我比较过学校给出的例子（Berkeley, Umich）和某个中介给出的例子，发现学校的例子无论是在行文还是语言上，都远胜于中介给出的例子（也许这个中介不太好？）。但如果有那个鉴别中介的时间的话，为什么不自己去找呢。
+
+这里有一些我认为比较有帮助的材料：
+
+- [Write a Letter of Recommendation, Cambridge](https://www.mrc-cbu.cam.ac.uk/documents/equality/HHMI_WriteReference.pdf)
+- [An example from Berkeley](http://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+- [An example from UMich](https://www.press.umich.edu/pdf/9780472031887-appendixg.pdf)
+
+### 成绩单
+
+自己打印并上传的那个是 unofficial。
+
+有的学校要求用信封包装，并在封口盖章。信封在学校超市买，盖章找相关部门。
+
+我校的相关信息参见这个 repo 下的[成绩单办理指南](./fudan-transcripts-guide.pdf)。
 
 ## 学校信息
 
 ### 一亩三分地的统计
 
 [link](https://offer.1point3acres.com/)
+
+### UCSD
+
+UCSD 有两个硕士项目，Master of Science & Master of Engineering，详见官方的解释（在FAQs里）。第一学期可转，据说后者难度稍低。
 
